@@ -1,0 +1,188 @@
+[
+  {
+    "massage":"Em ăn cơm chưa ?",
+    "reply":"Dạ chưa ạ",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+    {
+    "massage":"Em xinh quá",
+    "reply":"Dạ em cảm ơn nhiều ạ",
+    "delay":200,
+    "send_next":""
+  },  {
+    "massage":"Cho anh làm quen",
+    "reply":"Dạ được ạ",
+    "delay":100,
+    "send_next":"Anh bao nhiêu tuổi rồi?"
+  },  
+  {
+    "massage":"bao nhieu tuoi",
+    "reply":"Dạ em tròn 18 ạ",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+  {
+    "massage":"Chào em, mình làm bạn với nhau được không",
+    "reply":"Dạ được ạ",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+  {
+    "massage":"Quê em ở đâu",
+    "reply":"Dạ em chắc ở trong tim anh á 😝😘",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+    {
+    "massage":"cung z",
+    "reply":"Dạ hihi",
+    "delay":100,
+    "send_next":""
+  },
+  {
+    "massage":"anh thi",
+    "reply":"Dạ z hả",
+    "delay":100,
+    "send_next":""
+  },
+  {
+    "massage":"anh là",
+    "reply":"Dạ z hả",
+    "delay":100,
+    "send_next":""
+  },
+  {
+    "massage":"anh bị",
+    "reply":"Dạ z hả",
+    "delay":100,
+    "send_next":"Anh ổn chưa 😢"
+  },
+  {
+    "massage":"anh ở",
+    "reply":"Dạ z hả",
+    "delay":100,
+    "send_next":""
+  },
+  {
+    "massage":"anh biet",
+    "reply":"Dạ anh noi di",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+    {
+    "massage":"anh ten",
+    "reply":"Dạ tên anh ngầu quá",
+    "delay":100,
+    "send_next":""
+  },
+  {
+    "massage":"noi chung",
+    "reply":"Hoai nói riêng đi anh ",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+  {
+    "massage":"em thich tien khong",
+    "reply":"Dạ em thích anh ạ",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+  {
+    "massage":"anh thich em",
+    "reply":"Dạ em cảm ơn anh ạ",
+    "delay":100,
+    "send_next":"Hihi"
+  },
+  {
+    "massage":"du ma",
+    "reply":"Anh nói thế em buồn á",
+    "delay":100,
+    "send_next":"😢😢😢"
+  },
+  {
+    "massage":"dit me",
+    "reply":"Anh nói thế em buồn á",
+    "delay":100,
+    "send_next":"😢😢😢"
+  },
+  {
+    "massage":"anh yeu em",
+    "reply":"Dạ em cảm ơn anh ạ",
+    "delay":100,
+    "send_next":"Anh thấy em xinh hem: "
+  },
+  {
+    "massage":"em an gi chua",
+    "reply":"Dạ em đang trờ anh mua cho nè ☺️☺️",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+  {
+    "massage":"lon",
+    "reply":"Humm anh nói thế em buồn á",
+    "delay":100,
+    "send_next":""
+  },
+  {
+    "massage":"di an toi",
+    "reply":"Dạ em chưa 18 ạ",
+    "delay":100,
+    "send_next":"Má la 😓😓"
+  },
+  {
+    "massage":"em thich phim",
+    "reply":"Dạ Naruto ạ",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+  {
+    "massage":"em thich anh gi",
+    "reply":"Dạ Há cảo ạ",
+    "delay":100,
+    "send_next":"Còn anh"
+  },
+  {
+    "massage":"em thic mau gi",
+    "reply":"Dạ trắng ạ",
+    "delay":100,
+    "send_next":""
+  },
+   {
+    "massage":"thich gi",
+    "reply":"Dạ thích anh ạ",
+    "delay":100,
+    "send_next":""
+  },
+     {
+    "massage":"thich xe gi",
+    "reply":"Dạ thích G63 ạ",
+    "delay":100,
+    "send_next":""
+  },
+     {
+    "massage":"hello",
+    "reply":"Dạ em nghe anh nói ạ",
+    "delay":100,
+    "send_next":""
+  },
+     {
+    "massage":"hi",
+    "reply":"Dạ em đây ạ",
+    "delay":100,
+    "send_next":""
+  },
+     {
+    "massage":"em ten",
+    "reply":"Dạ: Ngọc Trinh ạ",
+    "delay":100,
+    "send_next":"cho em biết tên anh đi"
+  },
+     {
+    "massage":"dep",
+    "reply":"Dạ em cảm ơn anh ạ",
+    "delay":100,
+    "send_next":""
+  }
+  
+]
